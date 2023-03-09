@@ -1,0 +1,37 @@
+_repo: Beyond-the-sunset_70077
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Arthur D. Howden (Arthur Douglas Howden)
+    aliases:
+    - Smith, Arthur Douglas Howden
+    - Smith, A. D. Howden (Arthur Douglas Howden)
+    birthdate: 1887
+    deathdate: 1945
+    gutenberg_agent_id: '52393'
+    url: http://www.gutenberg.org/2009/agents/52393
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_D._Howden_Smith
+description: ''
+gutenberg_issued: '2023-02-19'
+identifiers:
+  gutenberg: '70077'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015055431434&view=1up&seq=7
+pgterms:marc905: 20230215170330smith
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aUnited States :$bBrentano''s, $c1922, copyright 1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Race relations -- Fiction'
+- !lcsh 'Grief -- Fiction'
+- !lcsh 'Indian mythology -- North America -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Beyond the sunset
+url: http://www.gutenberg.org/ebooks/70077
